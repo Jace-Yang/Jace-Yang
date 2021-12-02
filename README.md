@@ -3,5 +3,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
 I'm Jace Yang, a data science graduate student at Columbia.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
+
+
+<br/>
+
+---
   
 - 数据分析报告：https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html
