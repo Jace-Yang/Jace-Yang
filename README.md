@@ -1,12 +1,9 @@
-### Hi there! <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> <img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>
-
-<br />
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> <img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/> 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
-Hi, I'm Jace Yang, a data science graduate student at Columbia.
+I'm Jace Yang, a data science graduate student at Columbia.
   
-- 💼 [Email](mailto:jy3174@columbia.edu)
 
 <!--
 **languages and tools:**  
