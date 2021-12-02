@@ -10,5 +10,10 @@ I'm Jace Yang, a data science graduate student at Columbia.
 <br/>
 
 ---
-  
-- 数据分析报告：https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html
+
+### 数据分析项目
+
+<details>
+<summary>[新能源汽车消费车洞察](https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html)</summary>
+* [plans to watch None](https://anilist.co/activity/287248021) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
+</details>
