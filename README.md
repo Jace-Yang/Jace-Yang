@@ -1,5 +1,10 @@
-### Hi there! 👋
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
+<a href="https://discord.gg/XTW52Kt"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Abhishek&apos;s Discord" align="left" width="22px"/> </a> <a href="https://twitter.com/abhisheknaiidu"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Abhishek Naidu | Twitter" align="left" width="22px"/> </a> <a href="https://www.linkedin.com/in/abhisheknaiidu/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Abhishek&apos;s LinkedIN" align="left" width="22px"/> </a> <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="Abhishek&apos;s Spotify" align="left" width="22px"/> </a>
+
+-   🔭 I'm currently a MSDS student at Columbia.
+
+```{=html}
 <!--
 **Jace-Yang/Jace-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
