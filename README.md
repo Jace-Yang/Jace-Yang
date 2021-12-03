@@ -10,7 +10,6 @@ My GitHub info:
 
 Below are the projects I have done!
 
-<br/>
 
 ---
 
