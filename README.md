@@ -4,8 +4,11 @@
 
 I'm Jace Yang, a data science graduate student at Columbia.
 
+My GitHub info:
+
 <img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
+Below are the projects I have done!
 
 <br/>
 
