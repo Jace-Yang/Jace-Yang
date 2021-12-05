@@ -19,6 +19,9 @@ Below are the projects I have done!
 
 - [🚗新能源汽车消费者洞察](https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html)
 
+- [🏠中国房价数据分析](https://github.com/Jace-Yang/china_real_estate_market_EDA/blob/main/China%20Real%20Estate%20Market%20Report%20-%20what%20influences%20house%20price.pdf)
+- 
 - [🏦商业银行客户营销分析](https://github.com/Jace-Yang/bank-marketing-strategy-analysis/blob/main/report_chinese.pdf)
 
 - [🌧️云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
+
