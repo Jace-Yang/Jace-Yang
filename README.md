@@ -23,5 +23,7 @@ Below are the projects I have done!
 
 - [🏦商业银行客户营销分析](https://github.com/Jace-Yang/bank-marketing-strategy-analysis/blob/main/report_chinese.pdf)
 
+- [🎬全球电影历史票房与评分可视化](https://jace-yang.github.io/IMDB_movie_ratings_eda/)
+
 - [🌧️云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
 
