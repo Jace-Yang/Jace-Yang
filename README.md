@@ -15,7 +15,7 @@ Below are the projects I have done!
 
 ---
 
-### :bar_chart: 数据分析与可视化项目
+### :bar_chart: DA Projects|数据分析与可视化项目
 
 - [🚗新能源汽车消费者洞察](https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html)
 
