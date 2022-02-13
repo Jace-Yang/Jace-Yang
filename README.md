@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
-I'm Jace Yang, a data science graduate student at Columbia.
+I'm Jace Yang, a data science graduate student at Columbia. My career pursue is to become a ["full stack data analyst"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285)
 
 My GitHub info:
 
