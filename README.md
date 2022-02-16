@@ -27,3 +27,7 @@ Below are the projects I have done!
 
 - [🌧️云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
 
+
+### :bar_chart: Learning Notes
+
+- [📒ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
