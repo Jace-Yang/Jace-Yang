@@ -27,6 +27,10 @@ Below are the projects I have done!
 
 - [🌧️云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
 
+### :bar_chart: DS Projects|数据挖掘与建模项目
+
+- [🪧广告点击中的舞弊甄别](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/3_Final%20Report.pdf)
+
 
 ### :blue_book: Learning Notes
 
