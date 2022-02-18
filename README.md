@@ -15,7 +15,7 @@ Below are the projects I have done!
 
 ---
 
-### :bar_chart: DA Projects|数据分析与可视化项目
+### :bar_chart: DA Projects｜数据分析与可视化项目
 
 - [🚗新能源汽车消费者洞察](https://jace-yang.github.io/Customer_Insight_about_EV_Cars/report.html)
 
@@ -27,11 +27,11 @@ Below are the projects I have done!
 
 - [🌧️云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
 
-### :bar_chart: DS Projects|数据挖掘与建模项目
+### :bar_chart: DS Projects｜数据挖掘与建模项目
 
 - [🪧广告点击中的舞弊甄别](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/3_Final%20Report.pdf)
 
 
-### :blue_book: Learning Notes
+### :blue_book: Learning Note｜学习笔记
 
 - [📒ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
