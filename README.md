@@ -32,6 +32,8 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 
 - [🍱Yelp Fullstck-clone Web APP｜海外版大众点评前后端全栈](https://github.com/Jace-Yang/yelp_db_clone)
 
+  - [🍱Yelp Spark Data-mining｜PySpark数据挖掘Yelp数据集](https://github.com/Jace-Yang/yelp_db_clone/tree/main/spark_data_analysis)
+
 ### 🧙‍♂️ DL Project｜深度学习项目
 
 - [🪄BERT Pruning&Layer Drop｜BERT剪枝与模型简化分析](https://github.com/hannawong/Bert_compression)
