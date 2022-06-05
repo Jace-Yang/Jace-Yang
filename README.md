@@ -1,4 +1,4 @@
-## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
 
 
 
@@ -11,6 +11,14 @@ My GitHub info:
 <img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
 Below are the DS projects I have done! (In English｜Chinese format 😄
+
+---
+
+### :blue_book: Learning Note｜学习笔记
+
+- [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
+
+  - [🌧️Raincloud plot tutorial｜云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
 
 ---
 
@@ -38,8 +46,3 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 
 - [🪄BERT Pruning&Layer Drop｜BERT剪枝与模型简化分析](https://github.com/hannawong/Bert_compression)
 
-### :blue_book: Learning Note｜学习笔记
-
-- [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
-
-  - [🌧️Raincloud plot tutorial｜云雨图可视化技巧教程](https://jtr13.github.io/cc21fall2/raincloud-plot-101-density-plot-or-boxplotwhy-not-do-both.html)
