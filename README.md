@@ -14,7 +14,7 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 
 ---
 
-### :blue_book: Learning Note｜学习笔记
+### :blue_book: Learning Notes｜学习笔记
 
 - [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
 
