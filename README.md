@@ -36,6 +36,8 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 
 - [🪧AD Click Fraud Detaction｜广告点击中的舞弊甄别|](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/3_Final%20Report.pdf)
 
+- [📈Economy Time Series Prediction｜宏观时间序列建模](https://github.com/HannahFromAland/Accenture4-Evaluating-the-Attractiveness-of-a-Country)
+
 ### :floppy_disk: DE Project｜数仓与数据ETL项目
 
 - [🍱Yelp Fullstck-clone Web APP｜海外版大众点评前后端全栈](https://github.com/Jace-Yang/yelp_db_clone)
