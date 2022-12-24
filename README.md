@@ -34,7 +34,7 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 
 ### :bar_chart: DS Project｜数据挖掘与建模项目
 
-- [🪧AD Click Fraud Detaction｜广告点击中的舞弊甄别|](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/3_Final%20Report.pdf)
+- [🪧AD Click Fraud Detaction｜广告点击中的舞弊甄别](https://github.com/Jace-Yang/AD_Click_Fraud_Detaction/blob/main/3_Final%20Report.pdf)
 
 - [📈Economy Time Series Prediction｜宏观时间序列建模](https://github.com/HannahFromAland/Accenture4-Evaluating-the-Attractiveness-of-a-Country)
 
